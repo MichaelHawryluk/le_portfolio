@@ -1,13 +1,15 @@
 # le_portfolio
-# personal coding playground
 
-Date: Dec 23,2023
-Author: Mike Hawryluk
-Revision: 1.0
+# THE SANDBOX
 
-this website encapsulates my personal works.
+Date created: Dec 23,2023
+Date edited-: Dec 29,2023
+Author------: Mike Hawryluk
+Revision----: 1.1
 
-------- DONE -------
+This website encapsulates my personal coding.
+
+------------------------ DONE ------------------------
 
 GENERAL WEBSITE FEATURES:
 
@@ -20,7 +22,8 @@ PURCHASE PROCESS:
 GALLERY:
 
 
--------------------- TO DO ------------------------
+
+------------------------ TO DO ------------------------
 
 GENERAL WEBSITE FEATURES:
     -custom loading wheel
@@ -38,7 +41,7 @@ DB PRACTICES:
 
 PURCHASE PROCESS: 
     -credit card transaction 
-    -address section (store in cookie)
+    -address section (cookie)
 
 GALLERY:
     -zoom feature
